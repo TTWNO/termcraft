@@ -20,3 +20,11 @@ Make sure to change the config variables at the top of `termcraft.sh` if need be
 A default `termcraft.conf` is provided. Change as you please.
 
 This work is licensed under the GPLv3. Sharing is caring.
+
+## Running
+
+Simple run the script. This can start before the server is active :)
+
+```
+./termcraft.sh
+```
