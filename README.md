@@ -13,8 +13,8 @@ tmux new -s nameofsession
 
 Then launch your server within the `tmux` session.
 
-Make sure to change the config variables at the top of `special_commands.sh`
+Make sure to change the config variables at the top of `termcraft.sh`
 
-A default `special_commands.conf` is provided. Change as you please.
+A default `termcraft.conf` is provided. Change as you please.
 
 This work is licensed under the GPLv3. Sharing is caring.
